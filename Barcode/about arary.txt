@@ -1,0 +1,3 @@
+1D array
+2D array
+Key value array or associated value array ( aik hi array mai aik index ko do tarhan se represnr krna, 1 key hogi, 1 value)
